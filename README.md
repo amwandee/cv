@@ -1,3 +1,3 @@
 # Wandee Inwong
-A computor chemistry student | Portfolio: [myofficail.github.io](https://wandeeinwong.github.io)
+A computor chemistry student | Portfolio: [my official.github.io](https://wandeeinwong.github.io)
 
